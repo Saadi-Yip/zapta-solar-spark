@@ -23,7 +23,11 @@ const ContactUs = () => {
               <div className="d-flex flex-column text-secondary gap-lg-4 gap-sm-3 gap-3 mb-3">
                 <span className="d-flex gap-md-3 flex-column flex-md-row">
                   <span>
-                    <img src="/images/location2.png" alt="" width={30} />
+                    <img
+                      src="/images/location2.png"
+                      alt="location"
+                      width={30}
+                    />
                   </span>
                   <span>
                     Leo dui fermentum tristique urna tellus eget amet aliquam.
