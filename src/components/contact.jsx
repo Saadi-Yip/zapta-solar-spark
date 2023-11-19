@@ -17,7 +17,7 @@ const ContactUs = () => {
           </button>
         </div>
         <Heading heading="CONTATTACI" />
-        <div className="row mt-4 gap-4">
+        <div className="row mt-4 gap-3">
           <div className="col-md-4 col-10 m-auto p-3  border rounded-3">
             <div className="d-flex flex-column mt-lg-0">
               <div className="d-flex flex-column text-secondary gap-lg-4 gap-sm-3 gap-3 mb-3">
