@@ -17,7 +17,7 @@ function Services({ serviceData }) {
           </p>
         </div>
 
-        <div className="mt-5 pt-5" style={{ paddingTop: "80px" }}>
+        <div className="mt-5 pt-5" style={{ paddingTop: "90px" }}>
           <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
             {serviceData?.map((item, i) => {
               return (

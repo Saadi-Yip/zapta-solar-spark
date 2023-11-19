@@ -33,9 +33,9 @@ function Scegli({ data }) {
                       })}
                     </div>
 
-                    <h4 className="fs-6 fw-bold">CONSIGLIATO PER:</h4>
+                    <h4 className="fs-6 fw-bold mb-2">CONSIGLIATO PER:</h4>
                     <div className="d-flex gap-4">
-                      <div className="d-flex flex-column gap-2">
+                      <div className="d-flex flex-column gap-2 mb-2">
                         <span className="bg-7 p-2 rounded-full text-center">
                           <img
                             src="/images/battery.png"
